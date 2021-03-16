@@ -1,0 +1,1 @@
+g++ -Iinclude -Llib src\main.cpp -lsfml-graphics -lsfml-window -lsfml-audio -lsfml-network -lsfml-system -static-libgcc -static-libstdc++ -static
